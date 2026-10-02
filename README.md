@@ -19,7 +19,7 @@ This repository contains my solution and model pipeline for the final competitio
 4. **Results:** Achieved a top-tier metric score on the evaluation leaderboard.
 
 ## 📁 Repository Structure
-```
+```Learning materials are not to be disclosed; therefore, I'm only sharing the insights and paths of the project.
 ├── data/              # Dataset directory (gitignored)
 ├── notebooks/         # Exploratory analysis & experiments
 ├── src/               # Data cleaning, feature engineering, and model scripts
