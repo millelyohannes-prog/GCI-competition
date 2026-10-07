@@ -10,7 +10,7 @@ This repository contains my solution and model pipeline for the final competitio
 
 ## 🛠️ Tech Stack & Libraries
 - **Language:** Python
-- **Libraries:** Pandas, NumPy, Scikit-learn, LightGBM / XGBoost, Matplotlib, Seaborn
+- **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, LightGBM / XGBoost, RandomForest, Seaborn
 
 ## 🚀 Key Pipeline Steps
 1. **Data Preprocessing & Exploratory Data Analysis (EDA):** Identified missing values, distributions, and feature correlations.
